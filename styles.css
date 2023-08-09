@@ -8,6 +8,7 @@ body {
 }
 .keys {
   display: flex;
+  justify-content: center;
 }
 
 .key {
