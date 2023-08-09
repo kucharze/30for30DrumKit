@@ -6,6 +6,9 @@ body {
   border-color: #ffc600;
   box-shadow: 0 0 10px #ffc600;
 }
+.keys {
+  display: flex;
+}
 
 .key {
   border: 4px solid black;
